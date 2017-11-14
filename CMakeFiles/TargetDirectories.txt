@@ -1,0 +1,9 @@
+E:/Code/Husarion Projects/Husarion_VSC/CMakeFiles/console.dir
+E:/Code/Husarion Projects/Husarion_VSC/CMakeFiles/myproject.bin.dir
+E:/Code/Husarion Projects/Husarion_VSC/CMakeFiles/myproject.elf.dir
+E:/Code/Husarion Projects/Husarion_VSC/CMakeFiles/myproject.hex.dir
+E:/Code/Husarion Projects/Husarion_VSC/CMakeFiles/flash.dir
+E:/Code/Husarion Projects/Husarion_VSC/CMakeFiles/flash_myproject.dir
+E:/Code/Husarion Projects/Husarion_VSC/CMakeFiles/printvars.dir
+E:/Code/Husarion Projects/Husarion_VSC/CMakeFiles/edit_cache.dir
+E:/Code/Husarion Projects/Husarion_VSC/CMakeFiles/rebuild_cache.dir
