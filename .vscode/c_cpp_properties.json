@@ -10,8 +10,7 @@
                 "C:/Users/brownem/.vscode/extensions/husarion.husarion-1.5.5/sdk/ports/stm32/src/hUSB/usb",
                 "C:/Users/brownem/.vscode/extensions/husarion.husarion-1.5.5/sdk/ports/stm32/src/hUSB",
                 "C:/Users/brownem/.vscode/extensions/husarion.husarion-1.5.5/sdk/include",
-                "C:\\Users\\brownem\\.vscode\\HusarionTools\\bin\\/../arm-none-eabi/include/",
-                "${workspaceRoot}"
+                "C:\\Users\\brownem\\.vscode\\HusarionTools\\bin\\/../arm-none-eabi/include/"
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
@@ -23,8 +22,7 @@
                     "C:/Users/brownem/.vscode/extensions/husarion.husarion-1.5.5/sdk/ports/stm32/src/hUSB/usb",
                     "C:/Users/brownem/.vscode/extensions/husarion.husarion-1.5.5/sdk/ports/stm32/src/hUSB",
                     "C:/Users/brownem/.vscode/extensions/husarion.husarion-1.5.5/sdk/include",
-                    "C:\\Users\\brownem\\.vscode\\HusarionTools\\bin\\/../arm-none-eabi/include/",
-                    "${workspaceRoot}"
+                    "C:\\Users\\brownem\\.vscode\\HusarionTools\\bin\\/../arm-none-eabi/include/"
                 ]
             },
             "intelliSenseMode": "msvc-x64"
