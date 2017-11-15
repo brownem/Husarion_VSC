@@ -5,6 +5,8 @@ See the website section of this Git for a permalink to the appropriate thread on
 
 ### Adding a delay to the intialization of the Asus Tinker is a quick and dirty way of solving [avoiding] this problem.
 
+You can verify functionality of this flash by looking for a solid blue light on LR2 and a 1Hz cycle on L1.
+
 11/13/2017 - presently a WIP and does not properly work. Do not anticipate much trouble getting it to work, it's just late here. I'll tackle it again tomorrow based on feedback from the Husarion team
 
 11/14/2017 - Fully functional, thanks to Hubert over at Husarion.
