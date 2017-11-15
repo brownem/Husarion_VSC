@@ -12,4 +12,4 @@ You can verify functionality of this flash by looking for a solid blue light on 
 11/14/2017 - Fully functional, thanks to Hubert over at Husarion.
 
 ### Disclaimer
-This code is entirely his and Husarion's and is subject to whatever license(s) they deem necessary or appropriate. I am only providing this Git as a simple way to obtain your own fully functional 'blank flash' for any Core2-ROS boards that are using an Asus Tinker board. This entire Git does not come with any kind of warranty, including but not limited to: downloading, building, compiling, flashing, and use. Use at your own risk; I'm not replacing any damaged hardware, and I doubt Husarion will. 
+This code is entirely Hubert's and Husarion's and is subject to whatever license(s) they deem necessary or appropriate. I am only providing this Git as a simple way to obtain your own fully functional 'blank flash' for any Core2-ROS boards that are using an Asus Tinker board. This entire Git does not come with any kind of warranty, including but not limited to: downloading, building, compiling, flashing, and use. Use at your own risk; I'm not replacing any damaged hardware, and I doubt Husarion will. 
